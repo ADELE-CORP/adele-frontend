@@ -21,7 +21,14 @@ export default function NorthMacedoniaMap() {
     useEffect(() => {
         fetch('http://localhost:3000/data')
             .then(res => res.json())
-            .then(data => setMonumentsData(data))
+            .then(data => {
+                const featureCollection: any = {
+                    type: 'FeatureCollection',
+                    features: data
+                };
+
+                setMonumentsData(featureCollection)
+            })
             .catch(error => console.error('Error fetching data:', error));
     }, []);
 
