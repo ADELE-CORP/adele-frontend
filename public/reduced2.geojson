@@ -1,0 +1,1476 @@
+[
+  {
+    "type": "Feature",
+    "id": "node/287224902",
+    "properties": {
+      "timestamp": "2019-11-11T11:36:52Z",
+      "version": "70",
+      "name": "Tripoint",
+      "name:de": "Dreiländereck",
+      "tourism": "attraction",
+      "seamark:type": "buoy_special_purpose",
+      "id": "node/287224902"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.9773384,
+        40.8553275
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/390757439",
+    "properties": {
+      "timestamp": "2019-05-21T13:36:33Z",
+      "version": "3",
+      "name": "Лихнид",
+      "name:la": "Lychnidos",
+      "historic": "archaeological_site",
+      "wikipedia": "it:Lychnidos",
+      "id": "node/390757439"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7914836,
+        41.1155576
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/462151633",
+    "properties": {
+      "timestamp": "2012-09-15T23:30:25Z",
+      "version": "3",
+      "name": "Хотел Сириус",
+      "tourism": "hotel",
+      "int_name": "Hotel Sirius",
+      "id": "node/462151633"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.6517229,
+        41.4128709
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/534925163",
+    "properties": {
+      "timestamp": "2019-10-26T13:12:24Z",
+      "version": "7",
+      "name": "Куќа на Робевци",
+      "name:en": "Robev Family House",
+      "name:fr": "Maison de la famille Robev — Musée archéologique de la ville",
+      "name:tr": "Robevi Evi",
+      "name:zh": "罗贝夫家族宅邸国家博物馆",
+      "tourism": "museum",
+      "website": "http://muzejohrid.mk/en/house-of-robev-family",
+      "building": "house",
+      "int_name": "Robev Family House",
+      "addr:street": "Цар Самоил",
+      "opening_hours": "Tu-Su 09:00-14:00",
+      "addr:housenumber": "62",
+      "id": "node/534925163"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7961416,
+        41.112361
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1440469233",
+    "properties": {
+      "timestamp": "2019-06-14T13:37:53Z",
+      "version": "5",
+      "name": "Вила Албина",
+      "tourism": "guest_house",
+      "int_name": "Vila Albina",
+      "id": "node/1440469233"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7944769,
+        41.1119117
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1507336821",
+    "properties": {
+      "timestamp": "2011-11-18T14:10:56Z",
+      "version": "1",
+      "tourism": "viewpoint",
+      "id": "node/1507336821"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.4025821,
+        41.9716837
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1791481260",
+    "properties": {
+      "timestamp": "2012-06-17T11:01:01Z",
+      "version": "1",
+      "tourism": "motel",
+      "id": "node/1791481260"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.7045516,
+        41.440216
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1867606193",
+    "properties": {
+      "timestamp": "2012-08-15T17:04:25Z",
+      "version": "1",
+      "name": "Маркова Нога",
+      "source": "Bing",
+      "historic": "monument",
+      "id": "node/1867606193"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.1195933,
+        40.8570205
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/1964169959",
+    "properties": {
+      "timestamp": "2013-06-07T14:37:06Z",
+      "version": "2",
+      "name": "Ваго 2",
+      "name:en": "Vago 2",
+      "tourism": "motel",
+      "int_name": "Vago 2",
+      "id": "node/1964169959"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.2356592,
+        41.8328148
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/2015829492",
+    "properties": {
+      "timestamp": "2012-11-16T15:59:05Z",
+      "version": "2",
+      "name": "Марков Град",
+      "name:en": "Markov Grad",
+      "historic": "ruins",
+      "int_name": "Markov Grad",
+      "id": "node/2015829492"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.2541295,
+        41.4094203
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/2269431831",
+    "properties": {
+      "timestamp": "2021-01-12T11:51:38Z",
+      "version": "3",
+      "historic": "monument",
+      "name": "Никола Карев",
+      "id": "node/2269431831"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.2463296,
+        41.3736665
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/2320935264",
+    "properties": {
+      "timestamp": "2013-05-26T16:41:57Z",
+      "version": "1",
+      "name": "Villa Drama",
+      "tourism": "motel",
+      "id": "node/2320935264"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.801411,
+        41.0769557
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/2411308943",
+    "properties": {
+      "timestamp": "2013-08-08T17:02:47Z",
+      "version": "1",
+      "name": "Хотел Нар",
+      "name:en": "Hotel Nar",
+      "tourism": "hotel",
+      "int_name": "Hotel Nar",
+      "id": "node/2411308943"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.4943084,
+        41.1581681
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/2618005461",
+    "properties": {
+      "timestamp": "2014-01-23T20:01:49Z",
+      "version": "2",
+      "ref": "P-20",
+      "name": "Извор Горни Студенец",
+      "height": "1330",
+      "tourism": "information",
+      "int_name": "Spring Gorni Studenec",
+      "information": "guidepost",
+      "id": "node/2618005461"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8411451,
+        41.0763953
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3011061686",
+    "properties": {
+      "timestamp": "2014-08-11T19:32:27Z",
+      "version": "1",
+      "mtb": "yes",
+      "name": "Galicica National Park",
+      "hiking": "yes",
+      "tourism": "information",
+      "map_size": "region",
+      "map_type": "topo",
+      "description": "Map of Galicica National Park with all the hiking and mtb routes and table with their length",
+      "information": "map",
+      "id": "node/3011061686"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8029453,
+        41.0764159
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3011065975",
+    "properties": {
+      "timestamp": "2014-08-11T19:32:33Z",
+      "version": "1",
+      "ele": "824",
+      "ref": "P-57",
+      "note": "H-3",
+      "hiking": "yes",
+      "tourism": "information",
+      "information": "guidepost",
+      "id": "node/3011065975"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8072824,
+        41.0729279
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3263474161",
+    "properties": {
+      "timestamp": "2015-06-25T12:18:56Z",
+      "version": "2",
+      "name": "Манастир Св. Леонтиј",
+      "amenity": "place_of_worship",
+      "name:en": "St. Leontius Monastery",
+      "tourism": "attraction",
+      "religion": "christian",
+      "denomination": "orthodox",
+      "id": "node/3263474161"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.5902413,
+        41.4505759
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3649158793",
+    "properties": {
+      "timestamp": "2016-05-06T10:07:55Z",
+      "version": "3",
+      "name": "Висока Чука",
+      "name:en": "Visoka Chuka",
+      "tourism": "alpine_hut",
+      "capacity": "40",
+      "operator": "ПД „Миравци“ - Миравци",
+      "id": "node/3649158793"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.3256456,
+        41.2864493
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3671888432",
+    "properties": {
+      "timestamp": "2015-07-29T13:36:12Z",
+      "version": "1",
+      "name": "Конак",
+      "tourism": "alpine_hut",
+      "alt_name": "Шара ски",
+      "capacity": "24",
+      "operator": "ДПС „Шара ски“ - Тетово",
+      "id": "node/3671888432"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8821046,
+        42.011214
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/3826400420",
+    "properties": {
+      "timestamp": "2015-11-09T11:07:48Z",
+      "version": "1",
+      "name": "Сити Палас",
+      "name:en": "City Palace",
+      "tourism": "hotel",
+      "id": "node/3826400420"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8046742,
+        41.1099144
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4059966727",
+    "properties": {
+      "timestamp": "2016-03-14T15:06:20Z",
+      "version": "1",
+      "name": "Мизо",
+      "name:en": "Mizo",
+      "tourism": "hotel",
+      "id": "node/4059966727"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7845353,
+        41.1192679
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4183631289",
+    "properties": {
+      "timestamp": "2021-09-10T10:26:03Z",
+      "version": "4",
+      "historic": "monument",
+      "name": "Прометеј",
+      "name:en": "Prometheus",
+      "name:tr": "Prometheus",
+      "id": "node/4183631289"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4337226,
+        41.993303
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4239751190",
+    "properties": {
+      "timestamp": "2016-06-12T16:49:42Z",
+      "version": "1",
+      "name": "Velestovo House ",
+      "tourism": "guest_house",
+      "id": "node/4239751190"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8276341,
+        41.0868845
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4281387290",
+    "properties": {
+      "timestamp": "2019-02-11T22:41:59Z",
+      "version": "2",
+      "name": "Strima Residence",
+      "tourism": "guest_house",
+      "operator": "Florim Murtezani",
+      "id": "node/4281387290"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.5146494,
+        42.0186038
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4360802895",
+    "properties": {
+      "timestamp": "2016-08-22T00:52:18Z",
+      "version": "1",
+      "tourism": "viewpoint",
+      "id": "node/4360802895"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.184853,
+        41.7346831
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4437622043",
+    "properties": {
+      "timestamp": "2016-10-08T12:30:13Z",
+      "version": "1",
+      "name": "Apollonia Hotel",
+      "tourism": "hotel",
+      "operator": "Apollonia Casino",
+      "id": "node/4437622043"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.5038741,
+        41.1411114
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4524189289",
+    "properties": {
+      "timestamp": "2016-11-27T04:13:41Z",
+      "version": "1",
+      "name": "adra home",
+      "name:en": "adra home",
+      "name:mk": "adra home",
+      "tourism": "guest_house",
+      "addr:street": "Србо Томовиќ",
+      "addr:postcode": "1300",
+      "internet_access": "wlan",
+      "id": "node/4524189289"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.7042207,
+        42.1373916
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4705276289",
+    "properties": {
+      "timestamp": "2017-02-25T14:56:15Z",
+      "version": "1",
+      "name:sq": "Forumi Rinor Islam",
+      "tourism": "attraction",
+      "id": "node/4705276289"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.9622565,
+        41.9940942
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/4907494222",
+    "properties": {
+      "timestamp": "2017-06-10T12:13:16Z",
+      "version": "1",
+      "historic": "monument",
+      "id": "node/4907494222"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.5642947,
+        41.3983937
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5010846621",
+    "properties": {
+      "timestamp": "2017-08-03T06:16:29Z",
+      "version": "1",
+      "name:en": "Old Bazar, Skopje",
+      "tourism": "attraction",
+      "id": "node/5010846621"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4365749,
+        42.0007057
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5055455125",
+    "properties": {
+      "timestamp": "2019-05-22T03:52:50Z",
+      "version": "3",
+      "name": "Златковичева кула",
+      "name:en": "Zlatkovich Tower",
+      "historic": "monument",
+      "int_name": "Zlatkovičeva Kula",
+      "id": "node/5055455125"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.1809805,
+        42.0788289
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5284063621",
+    "properties": {
+      "timestamp": "2018-12-14T15:16:06Z",
+      "version": "2",
+      "name": "Flatiron apartment",
+      "tourism": "apartment",
+      "id": "node/5284063621"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4382328,
+        41.9855516
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5292130841",
+    "properties": {
+      "timestamp": "2017-12-18T18:23:49Z",
+      "version": "1",
+      "name": "Варшавска 15",
+      "tourism": "viewpoint",
+      "id": "node/5292130841"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3975936,
+        42.0007768
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5292131422",
+    "properties": {
+      "timestamp": "2017-12-18T18:23:32Z",
+      "version": "1",
+      "name": "Strezovo 2",
+      "tourism": "viewpoint",
+      "id": "node/5292131422"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4004663,
+        41.9935889
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5311987846",
+    "properties": {
+      "timestamp": "2017-12-30T13:46:11Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Тодор Александров",
+      "addr:housenumber": "119",
+      "id": "node/5311987846"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4237038,
+        41.9813822
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5387110181",
+    "properties": {
+      "timestamp": "2020-03-19T01:14:13Z",
+      "version": "7",
+      "ele": "2092",
+      "name": "Шерупа / Sherupa / Maja Ksulje e Priftit",
+      "name:bg": "Шерупа (2092)",
+      "name:en": "Sherupa",
+      "name:sq": "Kësula e Priftit (2092)",
+      "name:sr": "Шерупа",
+      "natural": "peak",
+      "tourism": "attraction",
+      "wikidata": "Q8082758",
+      "wikipedia": "mk:Шерупа",
+      "id": "node/5387110181"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.5943749,
+        41.8771924
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5551410938",
+    "properties": {
+      "timestamp": "2018-04-13T21:45:56Z",
+      "version": "2",
+      "name": "Боро Шаин",
+      "historic": "monument",
+      "id": "node/5551410938"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.6782194,
+        41.1756537
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5659613224",
+    "properties": {
+      "timestamp": "2019-06-14T13:37:53Z",
+      "version": "3",
+      "name": "Hotel Villa Jordan",
+      "name:mk": "Вила Јордан",
+      "tourism": "hotel",
+      "website": "http://villa-jordan-mk.book.direct/",
+      "addr:city": "Охрид",
+      "internet_access": "wlan",
+      "internet_access:fee": "no",
+      "id": "node/5659613224"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8081499,
+        41.1073783
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5729916159",
+    "properties": {
+      "timestamp": "2018-06-30T09:06:05Z",
+      "version": "1",
+      "historic": "archaeological_site",
+      "id": "node/5729916159"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.4180157,
+        41.8484714
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5737088839",
+    "properties": {
+      "timestamp": "2018-07-03T18:09:43Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Апостол Гусларот",
+      "addr:housenumber": "6",
+      "id": "node/5737088839"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4199163,
+        41.9983894
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5737128521",
+    "properties": {
+      "timestamp": "2018-07-03T18:09:06Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Тодор Александров",
+      "addr:housenumber": "41",
+      "id": "node/5737128521"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4204735,
+        41.9844403
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5761128521",
+    "properties": {
+      "timestamp": "2018-07-15T06:16:26Z",
+      "version": "1",
+      "name": "Св.Петар и Павле манастирче",
+      "name:en": "St.Piter and Paul church",
+      "tourism": "viewpoint",
+      "id": "node/5761128521"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.0306352,
+        41.0830455
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5840135789",
+    "properties": {
+      "timestamp": "2018-08-18T17:30:55Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Ацо Караманов",
+      "addr:housenumber": "13",
+      "id": "node/5840135789"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4150361,
+        41.9876067
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5842420585",
+    "properties": {
+      "timestamp": "2018-08-19T20:07:47Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Булевар Кузман Јосифовски Питу",
+      "addr:housenumber": "26 влез 1",
+      "id": "node/5842420585"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4491548,
+        41.9890776
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/5928373785",
+    "properties": {
+      "timestamp": "2018-09-25T08:31:06Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "1511",
+      "addr:housenumber": "32",
+      "id": "node/5928373785"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.44523,
+        41.9748952
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6040732549",
+    "properties": {
+      "timestamp": "2018-11-06T04:00:47Z",
+      "version": "1",
+      "tourism": "picnic_site",
+      "id": "node/6040732549"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.052765,
+        42.1035675
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6136130988",
+    "properties": {
+      "timestamp": "2018-12-14T00:47:29Z",
+      "version": "1",
+      "name": "patarina-160",
+      "historic": "monument",
+      "id": "node/6136130988"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.2926787,
+        41.9885405
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6245206187",
+    "properties": {
+      "timestamp": "2019-01-29T19:37:10Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Февруарски Поход",
+      "addr:housenumber": "40",
+      "id": "node/6245206187"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4836098,
+        41.9834418
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6245252589",
+    "properties": {
+      "timestamp": "2019-01-29T19:37:23Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Дренак",
+      "addr:housenumber": "20",
+      "id": "node/6245252589"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4341983,
+        41.9869655
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6348392225",
+    "properties": {
+      "timestamp": "2019-03-19T21:49:59Z",
+      "version": "1",
+      "historic": "memorial",
+      "id": "node/6348392225"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.1983434,
+        41.738462
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6373588888",
+    "properties": {
+      "timestamp": "2019-03-31T09:05:49Z",
+      "version": "1",
+      "tourism": "information",
+      "direction": "360",
+      "information": "board",
+      "id": "node/6373588888"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.1950377,
+        41.737507
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6470124865",
+    "properties": {
+      "timestamp": "2019-05-13T14:10:43Z",
+      "version": "1",
+      "name": "TA&TI",
+      "tourism": "guest_house",
+      "addr:flats": "13",
+      "addr:floor": "1",
+      "addr:street": "Булевар Туристичка",
+      "addr:housenumber": "99 A2",
+      "id": "node/6470124865"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7887576,
+        41.1237285
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6533558185",
+    "properties": {
+      "timestamp": "2019-06-08T09:08:05Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Благоја Гојан",
+      "addr:housenumber": "29а",
+      "id": "node/6533558185"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4357389,
+        41.9772665
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6629722489",
+    "properties": {
+      "timestamp": "2019-07-18T20:24:18Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Јуриј Гагарин",
+      "addr:housenumber": "62",
+      "id": "node/6629722489"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3857441,
+        41.9983281
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6702591586",
+    "properties": {
+      "timestamp": "2019-08-12T07:57:39Z",
+      "version": "1",
+      "tourism": "picnic_site",
+      "id": "node/6702591586"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.0662662,
+        41.0604903
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6767174185",
+    "properties": {
+      "timestamp": "2019-09-02T17:55:08Z",
+      "version": "1",
+      "name:en": "Holiday Inn",
+      "tourism": "hotel",
+      "id": "node/6767174185"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4365109,
+        41.9945629
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6820746901",
+    "properties": {
+      "timestamp": "2019-09-24T16:40:00Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Ul. 2",
+      "addr:housenumber": "73а",
+      "id": "node/6820746901"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3035316,
+        41.96568
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6831648798",
+    "properties": {
+      "timestamp": "2019-09-27T21:15:46Z",
+      "version": "1",
+      "name": "Relax",
+      "tourism": "apartment",
+      "id": "node/6831648798"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8072371,
+        41.1114221
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6837039905",
+    "properties": {
+      "timestamp": "2019-09-30T09:36:25Z",
+      "version": "1",
+      "name": "Vila Niko",
+      "phone": "+38946260043",
+      "tourism": "hotel",
+      "id": "node/6837039905"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8113417,
+        41.108465
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6868161285",
+    "properties": {
+      "timestamp": "2019-10-10T19:56:53Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Дебарца",
+      "addr:housenumber": "16",
+      "id": "node/6868161285"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4237051,
+        41.9967495
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/6982115385",
+    "properties": {
+      "timestamp": "2019-11-16T07:54:08Z",
+      "version": "1",
+      "tourism": "information",
+      "id": "node/6982115385"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8184778,
+        41.0004079
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7058905590",
+    "properties": {
+      "timestamp": "2019-12-16T01:01:37Z",
+      "version": "1",
+      "name": "Ismail Aga Helios",
+      "tourism": "apartment",
+      "id": "node/7058905590"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.9626067,
+        41.5187319
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7073862287",
+    "properties": {
+      "timestamp": "2019-12-20T23:02:48Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Кленоец",
+      "addr:housenumber": "61б",
+      "id": "node/7073862287"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3768827,
+        42.0029312
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7124138466",
+    "properties": {
+      "timestamp": "2020-01-11T10:54:55Z",
+      "version": "1",
+      "name": "Чешма Света Петка",
+      "access": "yes",
+      "historic": "monument",
+      "id": "node/7124138466"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.7233826,
+        41.1825947
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7141361585",
+    "properties": {
+      "timestamp": "2020-01-18T16:33:52Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Мирослав Крлежа",
+      "addr:housenumber": "39",
+      "id": "node/7141361585"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4229395,
+        41.9984222
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7212745491",
+    "properties": {
+      "timestamp": "2020-11-16T15:00:30Z",
+      "version": "2",
+      "addr:postcode": "1000",
+      "addr:street": "Трифун Хаџијанев",
+      "name": "Трифун Хаџи Јанев",
+      "tourism": "apartment",
+      "id": "node/7212745491"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.4619861,
+        42.0044944
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7306034785",
+    "properties": {
+      "timestamp": "2020-03-18T13:45:34Z",
+      "version": "1",
+      "tourism": "apartment",
+      "addr:street": "Скупи 1",
+      "addr:housenumber": "1а",
+      "id": "node/7306034785"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.3933761,
+        42.0133731
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7668777840",
+    "properties": {
+      "timestamp": "2020-06-30T07:25:44Z",
+      "version": "1",
+      "historic": "monument",
+      "id": "node/7668777840"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.2277167,
+        41.2504567
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/7841052189",
+    "properties": {
+      "timestamp": "2020-08-24T19:54:46Z",
+      "version": "1",
+      "name": "Villa Nikola Ohrid",
+      "tourism": "motel",
+      "id": "node/7841052189"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.8127023,
+        41.0968766
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/8048135011",
+    "properties": {
+      "timestamp": "2021-01-21T21:14:52Z",
+      "version": "2",
+      "historic": "memorial",
+      "memorial": "war_memorial",
+      "name": "Кире Гаврилоски-Јане / Круме Волнароски-Коља",
+      "name:en": "Kire Gavriloski-Jane / Krume Volnaroski-Kolja",
+      "id": "node/8048135011"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.5629735,
+        41.3464944
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/8301080099",
+    "properties": {
+      "timestamp": "2021-01-07T21:10:50Z",
+      "version": "1",
+      "historic": "monument",
+      "id": "node/8301080099"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.7710681,
+        41.3563252
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/8641682658",
+    "properties": {
+      "timestamp": "2021-04-18T21:24:55Z",
+      "version": "1",
+      "historic": "monument",
+      "id": "node/8641682658"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        22.0327107,
+        41.2551396
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/8832202301",
+    "properties": {
+      "timestamp": "2021-06-14T13:51:36Z",
+      "version": "1",
+      "board_type": "nature",
+      "information": "board",
+      "tourism": "information",
+      "id": "node/8832202301"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.7592796,
+        42.0571351
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/8901349094",
+    "properties": {
+      "timestamp": "2021-07-07T14:59:33Z",
+      "version": "1",
+      "historic": "memorial",
+      "name": "Albanian Mother",
+      "id": "node/8901349094"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.9510739,
+        41.5964956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/9042274362",
+    "properties": {
+      "timestamp": "2021-08-28T05:38:36Z",
+      "version": "1",
+      "name": "Св. Јован Канео",
+      "tourism": "attraction",
+      "id": "node/9042274362"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7886963,
+        41.1111385
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/9161033022",
+    "properties": {
+      "timestamp": "2021-10-09T18:10:14Z",
+      "version": "1",
+      "tourism": "hotel",
+      "id": "node/9161033022"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7980495,
+        41.1173074
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "node/9200216541",
+    "properties": {
+      "timestamp": "2021-10-25T16:00:54Z",
+      "version": "1",
+      "name": "Penelopa",
+      "tourism": "apartment",
+      "id": "node/9200216541"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.805433,
+        41.1097127
+      ]
+    }
+  }
+]
